@@ -14,6 +14,7 @@ This would allow developers to publish their work on a decentralized platform an
   - GitLab
   - Gitea
   - Gist
+  - ... and more
 
 ### Additional Considerations
 
