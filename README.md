@@ -1,5 +1,9 @@
 # WordPress Plugins and Themes in the ATmosphere
 
+> Based upon a discussion I had with Claude 3.5 Sonnet.
+
+This would allow developers to publish their work on a decentralized platform and provide users with a more secure and reliable way to manage their installations.
+
 ## Idea
 
 - use the [atproto](https://atproto.com/) protocol to discover ([firehose](https://atproto.com/specs/sync#firehose)) [plugins and themes](https://atproto.com/guides/data-repos) and validate ownership (under a users profile?)
