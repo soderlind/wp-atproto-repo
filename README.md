@@ -2,7 +2,7 @@
 
 ## Idea
 
-- use the atproto protocol to discover (firehose) plugins and themes and validate ownership (under a users profile?)
+- use the [atproto](https://atproto.com/) protocol to discover ([firehose](https://atproto.com/specs/sync#firehose)) [plugins and themes](https://atproto.com/guides/data-repos) and validate ownership (under a users profile?)
 - use git-updater ([afragen/git-updater](https://github.com/afragen/git-updater)) and its api plugins to retrive plugins from:
 
   - GitHub
